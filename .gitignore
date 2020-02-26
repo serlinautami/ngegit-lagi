@@ -21,3 +21,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+latihanApi/.metadata/.lock
+latihanApi/.metadata/version.ini
+latihanApi/.metadata/.plugins/org.eclipse.core.resources/5.snap
+latihanApi/.metadata/.plugins/org.eclipse.core.resources/.history/0/
+latihanApi/.metadata/
+latihanApi/API-Client/.metadata/
+latihanApi/.recommenders/
+latihanApi/api-oauth-jwt/.settings/
+latihanApi/bootcamp/.settings/
+latihanApi/client/.settings/
+latihanApi/RemoteSystemsTempFiles/
+latihanApi/api-oauth_jwt/.settings/
+latihanApi/API-Client/RemoteSystemsTempFiles/
+latihanApi/bootcamp/target/
+latihanApi/client/target/
+latihanApi/api-oauth_jwt/.classpath
+latihanApi/api-oauth_jwt/.project
+latihanApi/api-oauth-jwt/WebContent/WEB-INF/classes/jwk/jwks.json
+latihanApi/api-oauth-jwt/WebContent/WEB-INF/classes/jwk/jwks-enc.json
+latihanApi/api-oauth-jwt/.classpath
