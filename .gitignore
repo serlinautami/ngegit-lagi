@@ -42,3 +42,4 @@ latihanApi/api-oauth-jwt/WebContent/WEB-INF/classes/jwk/jwks.json
 latihanApi/api-oauth-jwt/WebContent/WEB-INF/classes/jwk/jwks-enc.json
 latihanApi/api-oauth-jwt/.classpath
 latihanApi/api-oauth-jwt/.project
+latihanApi/api-oauth-jwt/target/
